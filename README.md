@@ -47,4 +47,4 @@ The findings are that :
 - Distribute Carry out & Take away coupons :
   - in places where people are older, with no kids around
   - when it doesn't rain
-  - near places with construction zones or hospitals, or in residential neighboorhoods where people with lower income live
+  - near places with construction zones or hospitals, or near residential neighboorhoods where people with lower income live
