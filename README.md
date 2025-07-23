@@ -1,6 +1,6 @@
 # Will the Customer Accept the Coupon?
 
-** Assignment notebook:** https://github.com/vincentwenger/coupons_exploration/blob/main/prompt.ipynb
+**Assignment notebook:** https://github.com/vincentwenger/coupons_exploration/blob/main/prompt.ipynb
 
 ## What is the problem?
 This project aims to understand the differences between customers who accepted a driving coupon and those who did not.
