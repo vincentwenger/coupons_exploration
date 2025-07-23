@@ -15,4 +15,19 @@ This data is from the UCI Machine Learning Repository and was collected via a su
 
 ## What are the findings?
 
+The findings are that :
+- <ins>For bar coupons:</ins>
+  - The more frequent the drivers go to a bar each month, the more likely they are to accept the coupons
+  - Drivers with a lower income and who go often to cheap restaurasnts are less likely to accept the coupons
+- <ins>For Carry out & Take away coupons:</ins>
+  - Drivers who are more likely to accept the coupons are male drivers, who are 50 years old or more, who go home or to no urgent place, don't travel with kid(s), around 2PM or 6PM, when it doesn't rain.
+  - Drivers with lower level of education, with lower income, with a job in construction, building maintenance or healthcare practitioners are more likely to accept the coupon
+  - Drivers who don't go more than 8 times a month to Bars or Coffehouses or who never buy takeaway food or never go to cheap restaurants are more likely to accept the coupons
+  - Coupons are better accepted when it has more time before it expires
+- <ins>For Coffee House coupons:</ins>
+  - Drivers who are more likely to accept the coupons are drivers, who are below 21 years old, who go to no urgent place, travel with friend(s) or partner, around 10AM, when it doesn't snow and the temperature is hot.
+  - Drivers with lower level of education, with lower income, with a job in building maintenance or healthcare practitioners are more likely to accept the coupon
+  - Drivers who don't go more than 8 times a month to Bars, go at least 3 times a month to Coffee Houses, or order at least once a month Take away food, or go at least once a month to cheap or expensive restaurants are more likely to accept the coupons
+  - Coupons are better accepted when it has more time before it expires
+
 ## What do I recommend?
