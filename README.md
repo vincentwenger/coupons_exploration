@@ -48,3 +48,4 @@ The findings are that :
   - in places where people are older, with no kids around
   - when it doesn't rain
   - near places with construction zones or hospitals, or near residential neighboorhoods where people with lower income live
+- Distribute Coffee House coupons:
