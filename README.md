@@ -29,5 +29,10 @@ The findings are that :
   - Drivers with lower level of education, with lower income, with a job in building maintenance or healthcare practitioners are more likely to accept the coupon
   - Drivers who don't go more than 8 times a month to Bars, go at least 3 times a month to Coffee Houses, or order at least once a month Take away food, or go at least once a month to cheap or expensive restaurants are more likely to accept the coupons
   - Coupons are better accepted when it has more time before it expires
+- <ins>For Cheap restaurant coupons:</ins>
+  - Drivers who are more likely to accept the coupons are drivers, who are less than 50 years old, who go to no urgent place, travel with friend(s) or partner, around 2PM or 6PM, when it is sunny and the temperature is not too cold.
+  - Drivers who don't go more than 8 times a month to Bars or Coffee Houses, or never order takeawy food, or go at least 4 times a month to cheap restaurants or at least once a month to expensive restaurants are more likely to accept the coupons
+  - Drivers are more likely to accept the coupon when the geographical distance doesn't exceed 25 minutes drive
+  - Coupons are better accepted when it has more time before it expires
 
 ## What do I recommend?
