@@ -35,7 +35,7 @@ The findings are that :
   - Drivers are more likely to accept the coupon when the geographical distance doesn't exceed 25 minutes drive
   - Coupons are better accepted when it has more time before it expires
 - <ins>For Expensive restaurant coupons:</ins>
-  - Drivers who are more likely to accept the coupons are drivers, who are less than 50 years old, who go to no urgent place, travel partner, around 10AM or 6PM, when weather is sunny and the temperature is not too cold.
+  - Drivers who are more likely to accept the coupons are drivers, who are less than 50 years old, who go to no urgent place, travel with partner, around 10AM or 6PM, when weather is sunny and the temperature is not too cold.
   - Single or unmarried partners drivers with lower level of education, or with higher income, or with a job in Production occupations are more likely to accept the coupon
   - Drivers who go more than 8 times a month to Bars or cheap restaurants or expensive restaurants or who order more than 8 times a month Take away food are more likely to accept the coupons
   - Coupons are better accepted when it has more time before it expires
