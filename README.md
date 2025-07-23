@@ -41,3 +41,9 @@ The findings are that :
   - Coupons are better accepted when it has more time before it expires
 
 ## What do I recommend?
+
+- In general, it is better to create coupons wich have more time before they expire
+- Distribute bar coupons only to people who go to bars often
+- Distribute Carry out & Take away coupons :
+  - in places where people are older with no kids and when it doesn't rain
+  - near places with construction zones or hospitals
