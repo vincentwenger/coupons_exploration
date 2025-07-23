@@ -42,7 +42,7 @@ The findings are that :
 
 ## What do I recommend?
 
-- In general, it is better to create coupons wich have more time before they expire
+- In general, it is better to create coupons which have more time before they expire
 - Distribute bar coupons only to people who go to bars often
 - Distribute Carry out & Take away coupons :
   - in places where people are older, with no kids around
