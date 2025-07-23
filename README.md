@@ -22,7 +22,7 @@ The findings are that :
 - <ins>For Carry out & Take away coupons:</ins>
   - Drivers who are more likely to accept the coupons are male drivers, who are 50 years old or more, who go home or to no urgent place, don't travel with kid(s), around 2PM or 6PM, when it doesn't rain.
   - Drivers with lower level of education, with lower income, with a job in construction, building maintenance or healthcare practitioners are more likely to accept the coupon
-  - Drivers who don't go more than 8 times a month to Bars or Coffehouses or who never buy takeaway food or never go to cheap restaurants are more likely to accept the coupons
+  - Drivers who don't go more than 8 times a month to Bars or Coffeehouses or who never buy takeaway food or never go to cheap restaurants are more likely to accept the coupons
   - Coupons are better accepted when it has more time before it expires
 - <ins>For Coffee House coupons:</ins>
   - Drivers who are more likely to accept the coupons are drivers, who are below 21 years old, who go to no urgent place, travel with friend(s) or partner, around 10AM, when it doesn't snow and the temperature is hot.
@@ -47,10 +47,10 @@ The findings are that :
 - Distribute Carry out & Take away coupons :
   - in places where people are older, with no kids around
   - when it doesn't rain
-  - near places with construction zones or hospitals, or near residential neighboorhoods where people with lower income live
+  - near places with construction zones or hospitals, or near residential neighborhoods where people with lower income live
 - Distribute Coffee House coupons:
   - in places with young people who are less than 21
-  - near residential neighboorhoods where people with lower income live
+  - near residential neighborhoods where people with lower income live
   - when it doesn't snow and the temperature is hot.
 - Distribute Cheap restaurant coupons:
   - when weather is sunny and the temperature is not too cold
