@@ -53,6 +53,6 @@ The findings are that :
   - near residential neighboorhoods where people with lower income live
   - when it doesn't snow and the temperature is hot.
 - Distribute Cheap restaurant coupons:
-  - in places with young people who are less than 21
-  - near residential neighboorhoods where people with lower income live
-  - when it doesn't snow and the temperature is hot.
+  - when weather is sunny and the temperature is not too cold
+  - to people who go to restaurants often and never order take away food
+  - to restaurants which are not located to far from the drivers
