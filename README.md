@@ -56,3 +56,7 @@ The findings are that :
   - when weather is sunny and the temperature is not too cold
   - to people who go to restaurants often and never order take away food
   - to restaurants which are not located too far from the drivers
+- Distribute Expensive restaurant coupons:
+  - when weather is sunny and the temperature is not too cold
+  - to people who go to restaurants often and never order take away food
+  - to restaurants which are not located too far from the drivers
